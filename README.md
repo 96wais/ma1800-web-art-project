@@ -27,5 +27,8 @@ https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3 - Sound
 
 https://github.com/96wais/ma1800-web-art-project - This is my Github link to my codes
 
+https://96wais.github.io/ma1800-web-art-project/ - This is my URL to my whole project 
+
+
 
 
