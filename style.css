@@ -146,11 +146,11 @@ nav a:hover {
   z-index: 0;
   pointer-events: none;
   background-image: 
-    url("star.png"),
-    url("star.png"),
-    url("star.png"),
-    url("star.png"),
-    url("star.png");
+    url("stars.png"),
+    url("stars.png"),
+    url("stars.png"),
+    url("stars.png"),
+    url("stars.png");
   background-size: 40px 40px;
   background-repeat: no-repeat;
   background-position:
